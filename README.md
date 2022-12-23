@@ -11,7 +11,6 @@ My name is Miracle Ukeje, a Tech Enthusiast with a keen interest in Web Developm
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/miracleukeje?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
 
   <h2>🛠️ My Favorite Tools</h2>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -56,23 +55,24 @@ My name is Miracle Ukeje, a Tech Enthusiast with a keen interest in Web Developm
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-
-<h3>💻 GitHub Profile Stats</h3>
-
+  
+  ---
+  
+<details>
+  
+<summary><h3>💻 GitHub Profile Stats</h3></summary>
+   
+   
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miracleukeje's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miracleukeje&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miracleukeje's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracleukeje&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="miracleukeje's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api/?username=miracleukeje&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="miracleukeje's Top Languages" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracleukeje&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+   <p align="left">
+      
+   </details>
+ 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="miracleukeje's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=miracleukeje&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<details>
- <summary><h3>My Coding Journey</h3></summary>
-  Started my Coding Journey in 2022 where I enrolled as a Software Engineering student at ALX Africa.
- 
 
