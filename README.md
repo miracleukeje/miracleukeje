@@ -1,34 +1,78 @@
-[![MasterHead](https://www.pinterest.com/pin/71072500353986929/)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Miracle Ukeje but you can call me MO</h1>
-<h3 align="center">A passionate Software Engineering Student from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+# 👋🏾 Hello, World! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miracleukeje&label=Profile%20views&color=0e75b6&style=flat" alt="miracleukeje" /> </p>
+**`Tech Enthusiast (Software Engineering & Digital Marketing)`**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miracleukeje" alt="miracleukeje" /></a> </p>
+My name is Miracle Ukeje, a Tech Enthusiast with a keen interest in Web Development. My interest in Programming sprung up in the space of my remote job as a Digital Marketer, I honestly never saw myself gravitating towards Sofware Engineering at the time but my problem-solving skills and can-do attitude towards challenges made me to take steps. As a Digital Marketer it is my job to utilize variety of digital channels to build brand awareness and to generate leads for my clients, and I believe my journey in Software Engineering will equip me in generating more business solutions. 
 
-<p align="left"> <a href="https://twitter.com/theukeje" target="blank"><img src="https://img.shields.io/twitter/follow/theukeje?logo=twitter&style=for-the-badge" alt="theukeje" /></a> </p>
+   <p align="left">
+      <a href="https://github.com/miracleukeje?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/miracleukeje?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/miracleukeje?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/miracleukeje?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-- 🔭 I’m currently working on **Tasks around C and Python**
+---
 
-- 🌱 I’m currently learning **Python & C++, DevOps, Object-Oriented Design(OOD)**
+  <h2>🛠️ My Favorite Tools</h2>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-- 💬 Ask me about **C, Shell, HTML, CSS, Python & Vanilla JS**
+  <h3>Programming and Markup Languages</h3>
 
-- 📫 How to reach me **mo.ukeje@gmail.com**
+  <p>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Amiracleukeje+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
+  </p>
 
-- ⚡ Fun fact **I love colours and I have a taste for designs**
+  <h3>Frameworks and Libraries</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theukeje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theukeje" height="30" width="40" /></a>
-</p>
+  <p>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+  <h3>Databases and Cloud Hosting</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miracleukeje&show_icons=true&locale=en&layout=compact" alt="miracleukeje" /></p>
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miracleukeje&show_icons=true&locale=en" alt="miracleukeje" /></p>
+  <h3>Software and Tools</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miracleukeje&" alt="miracleukeje" /></p>
+  <p>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+
+<h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miracleukeje's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miracleukeje&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="miracleukeje's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracleukeje&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="miracleukeje's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=miracleukeje&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<details>
+ <summary><h3>My Coding Journey</h3></summary>
+  Started my Coding Journey in 2022 where I enrolled as a Software Engineering student at ALX Africa.
+ 
+
